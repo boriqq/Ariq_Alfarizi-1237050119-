@@ -11,6 +11,7 @@ https://ariqooo.wordpress.com/2023/12/26/mesin-komputasi/
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 https://youtu.be/1cZdavlIBic?si=AtMrqG4vtxlX-0Th
+https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ## Mencoba Console Sistem Operasi
 
@@ -42,7 +43,10 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+
 https://ariqooo.wordpress.com/2023/12/26/mengarungi-dunia-digital-berpetualang-dengan-web-browser/
+
+https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -52,6 +56,8 @@ https://ariqooo.wordpress.com/2023/12/26/mengarungi-dunia-digital-berpetualang-d
 
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+
+https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
