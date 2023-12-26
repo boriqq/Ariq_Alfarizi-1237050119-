@@ -10,6 +10,8 @@ https://ariqooo.wordpress.com/2023/12/26/mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+https://youtu.be/1cZdavlIBic?si=AtMrqG4vtxlX-0Th
+
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
@@ -40,6 +42,7 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/26/mengarungi-dunia-digital-berpetualang-dengan-web-browser/
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -122,9 +125,11 @@ https://www.kaggle.com/ariqalfarizi
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/26/eksplorasi-tanpa-batas-mencari-pekerjaan-freelance-it/
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/26/eksplorasi-tanpa-batas-mencari-pekerjaan-freelance-it/
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
