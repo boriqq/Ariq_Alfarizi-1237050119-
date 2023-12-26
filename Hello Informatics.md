@@ -21,6 +21,8 @@ https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+https://youtu.be/zU5HFcDkjxs?si=KzNvB_CiV_cYsaXg
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-figma/
