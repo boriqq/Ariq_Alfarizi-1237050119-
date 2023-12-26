@@ -72,6 +72,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+https://ariqooo.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
@@ -95,6 +96,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
+https://www.kaggle.com/ariqalfarizi
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -132,6 +134,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://www.linkedin.com/in/ariq-alfarizi-7367562a6/
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
@@ -143,4 +146,4 @@ https://drive.google.com/drive/folders/1-HQ_MmZ63pKllPtYmikE03hSpAPsnP3P
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
-
+https://ariqooo.wordpress.com/2023/12/26/buku-bertema-informatika/
