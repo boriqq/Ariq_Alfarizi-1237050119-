@@ -36,6 +36,8 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+https://youtu.be/RPYqp_wkEUc?si=s676HltHq-t7G1ig
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -75,6 +77,8 @@ https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+
+https://ariqooo.wordpress.com/2023/12/27/menjelajah-dunia-web-melalui-lensa-developer-petualangan-saya-dengan-developer-tools-chrome/
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
