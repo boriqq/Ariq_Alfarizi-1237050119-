@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-
+![Contoh](https://github.com/boriqq/job-interview/blob/main/Screenshot%202023-11-01%20180824.png?raw=true)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
