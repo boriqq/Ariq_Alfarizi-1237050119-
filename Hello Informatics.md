@@ -121,6 +121,8 @@ https://www.kaggle.com/ariqalfarizi
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/28/apa-itu-jurnal-conference-artikel-grade-jurnal/
+
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐\
 
@@ -129,11 +131,15 @@ https://www.kaggle.com/ariqalfarizi
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/26/eksplorasi-tanpa-batas-mencari-pekerjaan-freelance-it/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+https://youtu.be/X0zHfs_UuQg?si=tpneMVhOw58xG0SM
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
+https://youtu.be/0sNh-o_Ab-g?si=DE_Qm6v7NgJNU_hX
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
@@ -149,6 +155,7 @@ https://ariqooo.wordpress.com/2023/12/28/mencari-minat-di-roadmap-sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+https://youtu.be/ueEVBl_3Dzw?si=iqHuy-w6FocYzhXk
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
