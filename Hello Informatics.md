@@ -145,6 +145,7 @@ https://ariqooo.wordpress.com/2023/12/26/eksplorasi-tanpa-batas-mencari-pekerjaa
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/28/mencari-minat-di-roadmap-sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
