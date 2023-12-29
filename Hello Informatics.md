@@ -29,12 +29,15 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+https://youtu.be/59NDfdaqc0c?si=lCvC_e9g4DUhuT-9
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 ![Contoh](https://github.com/boriqq/picture/blob/main/Bubble%20Sort.jpeg?raw=true) ![Contoh](https://github.com/boriqq/picture/blob/main/output%20Bubblesort.jpeg?raw=true)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
+https://drive.google.com/file/d/1TSZSG0qoGg06vV6cJ1eq-sKiQNB1pxkz/view?usp=drive_link
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -73,9 +76,11 @@ https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-
+https://ariqooo.wordpress.com/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+
+https://youtu.be/w7T9KegCV0g?si=iQMAAMHW86nIaHrz
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -83,6 +88,8 @@ https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
