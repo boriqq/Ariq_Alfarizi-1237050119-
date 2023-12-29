@@ -84,12 +84,15 @@ https://youtu.be/w7T9KegCV0g?si=iQMAAMHW86nIaHrz
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+https://www.youtube.com/watch?v=75S6AJzbTao
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+https://www.youtube.com/watch?v=75S6AJzbTao
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-
+https://www.youtube.com/watch?v=YC1vXqL1Zwg
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
