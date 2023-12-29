@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-![Contoh](https://github.com/boriqq/Ariq_Alfarizi-1237050119-/blob/main/WhatsApp%20Image%202023-12-27%20at%2002.38.07_620e6e5b.jpg?raw=true)
+![Contoh](https://github.com/boriqq/picture/blob/main/WhatsApp%20Image%202023-12-27%20at%2002.38.05.jpeg?raw=true)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -32,8 +32,7 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-![Contoh](https://github.com/boriqq/Ariq_Alfarizi-1237050119-/blob/main/Bubble%20Sort.jpeg?raw=true)
-![Contoh](https://github.com/boriqq/Ariq_Alfarizi-1237050119-/blob/main/output%20Bubblesort.jpeg?raw=true)
+![Contoh](https://github.com/boriqq/picture/blob/main/Bubble%20Sort.jpeg?raw=true) ![Contoh](https://github.com/boriqq/picture/blob/main/output%20Bubblesort.jpeg?raw=true)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
