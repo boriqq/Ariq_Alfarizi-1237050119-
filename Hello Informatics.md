@@ -32,6 +32,8 @@ https://ariqooo.wordpress.com/2023/12/26/membuat-algoritma-dengan-flowchart-di-f
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+![Contoh](https://github.com/boriqq/Ariq_Alfarizi-1237050119-/blob/main/Bubble%20Sort.jpeg?raw=true)
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
