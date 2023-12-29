@@ -40,10 +40,15 @@ https://youtu.be/RPYqp_wkEUc?si=s676HltHq-t7G1ig
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+
+https://youtu.be/KPfZ6Zc0Dv4?si=g3F98pm5nHeCSsPH
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+https://youtu.be/aA3z1ah7vh8?si=aa1RZFYq-ZkZomJZ
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -54,10 +59,11 @@ https://youtu.be/Mlf8jgGdTBg?si=4yi-tLLhhL3RgxM1
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/29/apa-itu-url-pengertian-url-struktur-dan-jenisnya/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-
+https://youtu.be/IQUyaQLFDkU?si=9M1m5wq068BpZ8q-
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -91,7 +97,11 @@ https://ariqooo.wordpress.com/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://youtu.be/d6AI28h9Sxc?si=FTkZh-ojiG1dKZeU
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+https://youtu.be/d6AI28h9Sxc?si=FTkZh-ojiG1dKZeU
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
