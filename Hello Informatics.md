@@ -109,15 +109,22 @@ https://ariqooo.wordpress.com/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/29/mengeksplorasi-huggingface/
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 https://www.kaggle.com/ariqalfarizi
+https://ariqooo.wordpress.com/2023/12/29/menjelajah-dunia-data-science-dengan-kaggle-sebuah-eksplorasi-mendalam/
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/29/mencoba-memproses-file-big-data-orc-dan-csv-menggunakan-google-colab/
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+https://ariqooo.wordpress.com/2023/12/29/mencoba-memproses-file-big-data-orc-dan-csv-menggunakan-google-colab/
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
@@ -126,8 +133,11 @@ https://ariqooo.wordpress.com/2023/12/28/apa-itu-jurnal-conference-artikel-grade
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐\
 
+https://youtu.be/0XyOROrjJtk?si=dqhXYRNzdSFRNEiJ
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+https://ariqooo.wordpress.com/2023/12/29/review-video-presentasi-tugas-akhir-informatika/
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
