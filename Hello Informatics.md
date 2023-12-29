@@ -100,8 +100,7 @@ https://ariqooo.wordpress.com/2023/12/27/menjelajah-dunia-web-melalui-lensa-deve
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+https://ariqooo.wordpress.com/2023/12/30/mengenal-google-cloud-platform-gcp-landasan-teknologi-untuk-masa-depan/
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
