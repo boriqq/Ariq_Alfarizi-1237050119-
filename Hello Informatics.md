@@ -14,9 +14,6 @@ https://youtu.be/1cZdavlIBic?si=AtMrqG4vtxlX-0Th
 https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ## Mencoba Console Sistem Operasi
-
-https://youtu.be/ouWXFjswWyg
-
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 ![Contoh](https://github.com/boriqq/picture/blob/main/WhatsApp%20Image%202023-12-27%20at%2002.38.05.jpeg?raw=true)
