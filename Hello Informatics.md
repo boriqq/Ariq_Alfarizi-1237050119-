@@ -15,6 +15,8 @@ https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne
 
 ## Mencoba Console Sistem Operasi
 
+https://youtu.be/ouWXFjswWyg
+
 ### Windows CMD [v] ⭐⭐⭐⭐
 
 ![Contoh](https://github.com/boriqq/picture/blob/main/WhatsApp%20Image%202023-12-27%20at%2002.38.05.jpeg?raw=true)
@@ -118,15 +120,27 @@ https://youtu.be/d6AI28h9Sxc?si=FTkZh-ojiG1dKZeU
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne?usp=drive_link
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+
+https://youtu.be/1nH1b_SIaQo
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+https://youtu.be/XDKPV7uSZl4
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+
+https://ariqooo.wordpress.com/2023/12/29/mencoba-memproses-file-big-data-orc-dan-csv-menggunakan-google-colab/
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+https://ariqooo.wordpress.com/2023/12/30/mencoba-data-visualization-dengan-tools-dan-code/
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+https://ariqooo.wordpress.com/2023/12/30/mencoba-data-visualization-dengan-tools-dan-code/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -138,6 +152,8 @@ https://www.kaggle.com/ariqalfarizi
 https://ariqooo.wordpress.com/2023/12/29/menjelajah-dunia-data-science-dengan-kaggle-sebuah-eksplorasi-mendalam/
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
+https://ariqooo.wordpress.com/2023/12/30/memahami-mqtt-protokol-komunikasi-ringan-untuk-internet-of-things-iot/
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
