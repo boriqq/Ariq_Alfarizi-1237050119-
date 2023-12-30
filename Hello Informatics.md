@@ -118,6 +118,8 @@ https://youtu.be/d6AI28h9Sxc?si=FTkZh-ojiG1dKZeU
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+https://youtu.be/ouWXFjswWyg
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 https://colab.research.google.com/drive/1G1_PfP7hrmLiHrwgVl1BRIsM28VL9-Ne?usp=drive_link
